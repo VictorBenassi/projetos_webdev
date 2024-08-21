@@ -12,6 +12,7 @@ const fomapagamento: FormaPagamento =
     Produto: 'Detergente',
     FormaPagamento: "pix"
 };
-    
+mensagem()
+
 
 
